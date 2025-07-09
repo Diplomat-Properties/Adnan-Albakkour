@@ -1,14 +1,14 @@
 // JS/employeeData.js
 const employeeData = {
-  fullName: "Ahmad Uzair Chaudhary",
+  fullName: "ADNAN ALBAKKOUR",
   title: "Sales Manager",
   company: "RISE Properties",
-  email: "Ahmed.Uzair@riseproperties.ae",
-  phone1: "+971544430288",
-  phone2: "+971526058689",
-  phone3: "+97145665109",
-  website: "http://www.riseproperties.ae",
-  address: "PO Box No 455979, Office NO.1607, Opal Tower, Business Bay, Dubai, UAE",
+  email: "adnano@dpdxb.com,
+  phone1: "+971586410997",
+  phone2: "+971523885017",
+  phone3: "+97143609529",
+  website: "http://www.dpdxb.com",
+  address: "PO Box No 181702, Office NO.807, Opal Tower, Business Bay, Dubai, UAE",
   image: "img/company-logo.jpg",
   companyImg: "img/rise-properties.JPG"
 };
