@@ -2,7 +2,7 @@
 const employeeData = {
   fullName: "ADNAN ALBAKKOUR",
   title: "Sales Manager",
-  company: "RISE Properties",
+  company: "Diplomat Properties",
   email: "adnano@dpdxb.com,
   phone1: "+971586410997",
   phone2: "+971523885017",
